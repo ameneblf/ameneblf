@@ -31,7 +31,7 @@ const developer = {
     "Multi-tenant Systems",
     "Bilingual AR/FR Interfaces"
   ],
-  languages: ["Arabic (Native)", "French (Fluent)", "English (Intermediate)"]
+  languages: ["Arabic (Native)", "French (Courant)", "English (Intermediate)"]
 };
 ```
 
@@ -196,7 +196,6 @@ Modernized a legacy desktop application:
 [![Email](https://img.shields.io/badge/Email-Belfencha.ma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Belfencha.ma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medamene)
 [![Portfolio](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Medamene)
-[![Phone](https://img.shields.io/badge/Phone-%2B212_655_763_422-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212655763422)
 
 📍 **Location:** Salé – Rabat, Morocco  
 
