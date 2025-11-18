@@ -122,7 +122,7 @@ const profile = {
 
 <div align="center">
 
-### ⚡ "Building scalable solutions, one commit at a time" ⚡
+###  "Building scalable solutions, one commit at a time" 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
