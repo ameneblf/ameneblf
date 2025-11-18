@@ -7,47 +7,46 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-medamene-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medamene)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/Medamene)
 
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer with **5+ years** of experience building scalable web applications and **7+ years** as a freelance Graphic Designer.  
-Currently **Technical Manager & Partner at ERYX MAROC**, specializing in **Laravel + Vue 3** architectures with complex integrations and multi-tenant systems.
+**Technical Manager & Partner at ERYX MAROC** with 5+ years of full-stack development experience and 7+ years as a graphic designer. I specialize in building **scalable SaaS platforms** using **Laravel + Vue 3**, with expertise in multi-tenant architectures, complex API integrations, and bilingual interfaces (AR/FR).
 
 ```typescript
-const developer = {
+const profile = {
   name: "Mohamed Amine Belfencha",
-  username: "ameneblf",
-  location: "Salé - Rabat, Morocco",
-  role: "Technical Manager & Full-Stack Developer",
+  location: "Rabat, Morocco",
+  role: "Technical Manager & Partner",
   company: "ERYX MAROC",
-  experience: "5+ years (development)",
-  specialization: [
-    "SaaS Architecture",
-    "API Development",
-    "Performance Optimization",
-    "Multi-tenant Systems",
-    "Bilingual AR/FR Interfaces"
+  experience: {
+    development: "5+ years",
+    design: "7+ years"
+  },
+  specialties: [
+    "SaaS Multi-tenant Architecture",
+    "Laravel + Vue 3 Development",
+    "REST API & JWT Authentication",
+    "Dolibarr Integration",
+    "PDF Generation & Document Processing",
+    "DevOps & Deployment (Plesk)"
   ],
-  languages: ["Arabic (Native)", "French (Courant)", "English (Intermediate)"]
+  languages: {
+    arabic: "Native",
+    french: "Intermediate",
+    english: "Intermediate (B1)"
+  }
 };
 ```
 
-**Core Expertise:**
-- 🏗️ Multi-tenant SaaS architecture (JWT, REST APIs, MySQL)
-- ⚡ Performance optimization & scalability
-- 🔄 Complex integrations (Dolibarr, third-party APIs, legacy systems)
-- 📄 PDF generation & document processing (DomPDF)
-- 🌐 Bilingual interfaces (AR/FR)
-- 🚀 DevOps & deployment automation (Plesk, SSH, logs, monitoring)
-
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-### **Backend Development**
+### **Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -55,7 +54,7 @@ const developer = {
 ![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-0277BD?style=for-the-badge)
 
-### **Frontend Development**
+### **Frontend**
 ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -73,119 +72,143 @@ const developer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Plesk](https://img.shields.io/badge/Plesk-52BBE8?style=for-the-badge&logo=plesk&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![DomPDF](https://img.shields.io/badge/DomPDF-8A2BE2?style=for-the-badge)
+
+### **Design & Prepress**
 ![Adobe_CC](https://img.shields.io/badge/Adobe_Creative_Cloud-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 **Technical Manager & Partner** @ ERYX MAROC  
-**April 2025 – Present** | Rabat, Morocco  
+### 🚀 **Technical Manager & Partner** @ ERYX MAROC
+**April 2025 – Present** | Rabat, Morocco
 
-Leading technical development of a comprehensive SaaS platform:
+Leading the technical architecture and development of a comprehensive **multi-tenant SaaS platform**:
 
-- 🏗️ Architected a **multi-tenant system** with JWT authentication, REST APIs, and MySQL  
-- 📊 Built **SaaS modules**: invoicing, inventory management, association management  
-- 🎨 Developed **Vue 3 + Pinia** frontends with bilingual support (AR/FR)  
-- ⚙️ Managed **deployments & operations**: Plesk, security, logging, monitoring  
-- 🔗 Integrated **Dolibarr** workflows and custom extrafields  
-- 📄 Implemented **PDF generation** with DomPDF and file upload management  
+**🏗️ Architecture & Development**
+- Designed and implemented **multi-tenant system** with JWT authentication, REST APIs, and MySQL
+- Built core SaaS modules: **invoicing, inventory management, association management**
+- Developed **Vue 3 + Pinia** frontend with bilingual support (Arabic/French)
+- Integrated **Dolibarr ERP** workflows and custom extrafields
+- Implemented **PDF generation** (DomPDF) and file upload management
 
-**Tech Stack:** Laravel, Vue 3, Pinia, MySQL, JWT, DomPDF, Plesk  
+**⚙️ DevOps & Operations**
+- Managed deployments via **Plesk** (Composer, Node.js, SSH)
+- Implemented security measures, logging, and performance monitoring
+- Configured email notifications and automated workflows
 
----
-
-### 💻 **Full-Stack Developer** @ Technopedagogy  
-**May 2024 – January 2025** | Kénitra, Morocco  
-
-Built a complete web application from scratch:
-
-- 🏗️ Developed a custom **PHP MVC framework** with Bootstrap  
-- 📍 Implemented **geolocation features** with proximity filtering  
-- 🔍 Created dynamic **search & CRUD** for establishments  
-- 🎨 Handled the full cycle: **UI/UX design → development → production → optimization**  
-
-**Tech Stack:** PHP, MySQL, Bootstrap, JavaScript  
+**Tech Stack:** Laravel, Vue 3, Pinia, MySQL, JWT, DomPDF, Dolibarr, Plesk
 
 ---
 
-### 🏦 **Full-Stack Developer (Freelance)** @ FNBTP  
-**December 2022 – April 2023** | Rabat, Morocco  
+### 💻 **Full-Stack Developer** @ Technopedagogy
+**May 2024 – January 2025** | Kénitra, Morocco
 
-Modernized a legacy desktop application:
+Developed a complete web application from scratch with geolocation features:
 
-- 🔄 Migrated **VB → PHP** and unified modules  
-- 📊 Built **dashboards** with KPIs, charts, and recovery statistics  
-- 👥 Developed **member/company management** with dynamic filters and CRUD  
-- ⚡ Implemented **pagination, validation, and role-based access control**  
+- Built custom **PHP MVC framework** with Bootstrap UI
+- Implemented **geolocation-based search** with proximity filtering
+- Created dynamic establishment management system (CRUD)
+- Handled full development cycle: UI/UX → Backend → Production → Optimization
 
-**Tech Stack:** PHP (MVC), MySQL, Bootstrap, JavaScript  
-
----
-
-### 🔧 **COBOL Developer (Internship)** @ AC2I  
-**February 2023 – March 2023** | Rabat, Morocco  
-
-- 🛠️ Maintained **batch processing** systems in COBOL  
-- 📝 Fixed incidents with flat files (EBCDIC/CSV)  
-- 📚 Wrote technical documentation and handover notes  
+**Tech Stack:** PHP (MVC), MySQL, Bootstrap, JavaScript, Geolocation API
 
 ---
 
-### 💾 **Developer (Freelance)** @ CNRST  
-**May 2022 – July 2022** | Rabat, Morocco  
+### 🏦 **Full-Stack Developer (Freelance)** @ FNBTP
+**December 2022 – April 2023** | Rabat, Morocco
 
-- 🔐 Built **authentication** and **Excel import** features (XLSX/CSV)  
-- 📊 Created **dashboards** using MySQL queries and exports  
-- 🗄️ Implemented CRUD operations and data aggregations  
+Modernized a legacy desktop application into a modern web platform:
 
-**Tech Stack:** PHP, MySQL, Excel Integration  
+- **Migrated VB.NET → PHP** and unified disparate modules
+- Built **interactive dashboards** with KPIs, charts, and recovery statistics
+- Developed **membership management system** with advanced filtering and CRUD
+- Implemented pagination, form validation, and role-based access control
 
----
-
-### 🛍️ **Partner / Ops & Brand** @ GianStore *(Side Project)*  
-**2024 – Present** | Salé, Morocco  
-
-- 🛒 Managed **B2C operations**: prospecting, sales, customer support  
-- 🚚 Handled **sourcing, suppliers, negotiation, and logistics**  
-- 📈 Built Excel-based **catalog, stock, pricing & margin dashboards**  
-- 🎨 Created **brand identity** (name, logo) and social content (photos & videos)  
+**Tech Stack:** PHP (MVC), MySQL, Bootstrap, JavaScript, Chart.js
 
 ---
 
-### 🎨 **Graphic Designer (Freelance)** @ Palais des Congrès Rabat Bouregreg  
-**June 2021 – August 2021** | Salé, Morocco  
+### 🔧 **COBOL Developer (Internship)** @ AC2I
+**February 2023 – March 2023** | Rabat, Morocco
 
-- Designed **print & event materials**: brochures, invitations, roll-ups, backdrops  
-- Adapted visuals for **FR/AR** audiences and maintained visual identity  
-- Prepared files for **prepress**: PDF/X CMJN, bleed, color control  
+- Maintained **batch processing systems** in COBOL
+- Fixed data processing incidents (EBCDIC/CSV flat files)
+- Wrote technical documentation and handover notes
+
+---
+
+### 💾 **Developer (Freelance)** @ CNRST
+**May 2022 – July 2022** | Rabat, Morocco
+
+- Built authentication system and Excel import module (XLSX/CSV)
+- Created data dashboards with MySQL queries and exports
+- Implemented CRUD operations and data aggregation features
+
+**Tech Stack:** PHP, MySQL, Excel Processing
+
+---
+
+### 🛍️ **Partner / Operations & Brand** @ GianStore *(Side Project)*
+**March 2024 – January 2025** | Salé, Morocco
+
+Co-founded and managed B2C e-commerce operations:
+
+- Managed **end-to-end operations**: prospecting, sales, customer support/SAV
+- Handled **sourcing & logistics**: supplier research, negotiation (pricing, MOQ, lead times)
+- Built **Excel-based systems**: product catalog, inventory, pricing & margins, order tracking
+- Created **brand identity** (name, logo) and marketing content (product videos, social media)
+
+---
+
+### 🎨 **Graphic Designer (Freelance)** @ Palais des Congrès Rabat Bouregreg
+**June 2021 – August 2021** | Salé, Morocco
+
+- Designed **print & event materials**: brochures, invitations, roll-ups, stage backdrops, signage
+- Created **bilingual designs** (French/Arabic) respecting brand guidelines
+- Prepared **prepress files**: PDF/X CMYK, bleed, color control, printer coordination
+
+**Tools:** Photoshop, Illustrator, Premiere Pro
 
 ---
 
 ## 🎓 Education
 
 **🎓 Professional Bachelor's Degree** – Full-Stack Web Development & DevOps  
-*Hassan 1er University – Faculty of Sciences and Technologies, Settat* | 2022–2023  
+*Hassan 1er University – Faculty of Sciences and Technologies, Settat* | 2022–2023
 
 **🎓 Specialized Technician Diploma** – Computer Development  
-*ISTA Hay Salam, Salé* | 2017–2020  
+*ISTA Hay Salam, Salé* | 2017–2020
 
 **🎓 Baccalaureate** – Physical Sciences  
-*Lycée Salah Eddine El Ayoubi, Salé* | 2017  
+*Lycée Salah Eddine El Ayoubi, Salé* | 2017
 
-**📚 Additional Training**  
-**English Language (Intermediate 3)** – *ELC Rabat (English Language Center)* | 2023–2025  
+**📚 Continuing Education**  
+**English Language Training (Intermediate 3 / B1)** – *ELC Rabat* | 2023–2025
 
 ---
 
 ## 🌍 Languages
 
-- 🇲🇦 **Arabic:** Native  
-- 🇫🇷 **French:** Fluent  
-- 🇬🇧 **English:** Intermediate (Intermediate 3 – ELC Rabat)  
+- 🇲🇦 **Arabic:** Native
+- 🇫🇷 **French:** Intermediate
+- 🇬🇧 **English:** Intermediate (B1 – Intermediate 3 certified by ELC Rabat)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameneblf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameneblf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
 
@@ -195,9 +218,9 @@ Modernized a legacy desktop application:
 
 [![Email](https://img.shields.io/badge/Email-Belfencha.ma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Belfencha.ma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medamene)
-[![Portfolio](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Medamene)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Medamene)
 
-📍 **Location:** Salé – Rabat, Morocco  
+**📍 Location:** Rabat, Morocco
 
 </div>
 
