@@ -106,18 +106,6 @@ const profile = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameneblf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameneblf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
