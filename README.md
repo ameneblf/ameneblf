@@ -22,7 +22,7 @@ const developer = {
   company: "ERYX MAROC",
   experience: "5+ years",
   specialization: ["SaaS Architecture", "API Development", "Performance Optimization"],
-  languages: ["Arabic (Native)", "French (Fluent)", "English (Intermediate)"]
+  languages: ["Arabic (Native)", "French (Courant)", "English (Intermediate)"]
 };
 ```
 
